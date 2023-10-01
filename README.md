@@ -1,4 +1,4 @@
-<p align="center"><img src="https://miro.medium.com/v2/resize:fit:4428/1*gLdtfiKgxOX2_kDRkfVLGQ.png" alt="logo"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" alt="logo"></p>
 
 <h1 align="center">Hi 👋, I'm Saleh Shakib</h1>
 <h3 align="center">An Enthusiastic React Frontend Developer from Bangladesh</h3>
