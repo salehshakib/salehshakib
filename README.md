@@ -119,5 +119,6 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=salehshakib&show_icons=true&locale=en" alt="salehshakib" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=salehshakib&" alt="salehshakib" /></p>
+
+![snake gif](https://github.com/salehshakib/salehshakib/blob/output/github-contribution-grid-snake.gif)
