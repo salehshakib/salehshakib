@@ -5,6 +5,8 @@
 <h1 align="center">Hi 👋, I'm Saleh Shakib</h1>
 <h3 align="center">An Enthusiastic React Frontend Developer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Saleh+Shakib+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;An+Enthusiastic+React+Frontend+Developer+from+Bangladesh)](https://git.io/typing-svg)
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
