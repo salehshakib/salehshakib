@@ -1,11 +1,10 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=salehshakib&label=Profile%20views&color=0e75b6&style=flat" 
-    alt="salehshakib" /></p>
+<img src="https://komarev.com/ghpvc/?username=salehshakib&label=Profile%20views&color=0e75b6&style=flat" align="right" alt="salehshakib" />
 
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
-    alt="logo"></p>
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="center" alt="logo">
 
 <!-- <h1 align="center">Hi 👋, I'm Saleh Shakib</h1> -->
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Saleh+Shakib+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+<h1 align="center"><img  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Saleh+Shakib+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></h1>
+
 <h3 align="center">An Enthusiastic React Frontend Developer from Bangladesh</h3>
 
 <!-- <p align ='center'>
