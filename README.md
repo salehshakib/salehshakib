@@ -166,16 +166,17 @@
   </p>
   
 
-  <p align="center"><img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=salehshakib&show_icons=true&locale=en&layout=compact"
-      alt="salehshakib" /></p>
+<p align="center"><img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=salehshakib&show_icons=true&locale=en&layout=compact"
+    alt="salehshakib" /></p>
 
-  <p align="center">&nbsp;<img
-      src="https://github-readme-stats.vercel.app/api?username=salehshakib&show_icons=true&locale=en"
-      alt="salehshakib" /></p>
+<p align="center">&nbsp;<img
+    src="https://github-readme-stats.vercel.app/api?username=salehshakib&show_icons=true&locale=en"
+    alt="salehshakib" /></p>
 
-  <p align="center"><img
-      src="https://github-readme-streak-stats.herokuapp.com/?user=salehshakib&show_icons=true&locale=en"
-      alt="salehshakib" /></p>
+<p align="center"><img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=salehshakib&show_icons=true&locale=en"
+    alt="salehshakib" /></p>
 
-  ![snake gif](https://github.com/salehshakib/salehshakib/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/salehshakib/salehshakib/output/github-contribution-grid-snake.gif)
+
