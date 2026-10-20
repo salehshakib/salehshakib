@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=salehshakib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.sh/github.com/salehshakib.svg?label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -13,6 +13,11 @@
 </h1>
 
 <h3 align="center">An enthusiastic frontend developer from Bangladesh who builds fast, accessible web apps with React and Next.js</h3>
+
+<p align="center">
+  <a href="https://saleh-shakib-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://drive.google.com/file/d/1bCHhLpZcvf-yjr4PPWPI20cE_s5wW50I/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/salehshakib-b346ab283"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -33,6 +38,7 @@
 - 🛠️ Day to day I work with **Next.js (App Router), React, TypeScript, Tailwind CSS, shadcn/ui, TanStack Query and Zustand**
 - 🌱 Currently learning **Prisma** and advanced **Next.js** patterns (Server Components, caching)
 - 💬 Ask me about **MERN, Redux, JavaScript, SQL**
+- 🌐 Portfolio: **[saleh-shakib-resume.vercel.app](https://saleh-shakib-resume.vercel.app/)** · 📄 **[Resume (PDF)](https://drive.google.com/file/d/1bCHhLpZcvf-yjr4PPWPI20cE_s5wW50I/view?usp=sharing)**
 - 📫 Reach me at **[salehshakib.ss@gmail.com](mailto:salehshakib.ss@gmail.com)**
 - ⚡ Fun fact: I'm always picking up new skills, and I take turning them into real results seriously.
 
